@@ -140,8 +140,5 @@ Licensed under the MIT License.
 
 ```
 
----
 
-¿Quieres que lo empaquete como archivo `.md` descargable ahora? ¿O deseas que prepare también una versión en español o para el `wiki/` del repositorio?
-```
 
